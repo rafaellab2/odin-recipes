@@ -1,0 +1,23 @@
+body {
+    background-color: pink;
+}
+#title {
+    color: crimson;
+    text-align: center;
+    font-family: "Copperplate",'fantasy';
+    font-size: 50px;
+}
+.alignment {
+    text-align:center;
+}
+.para {
+    text-align: start;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgb(42, 7, 7)
+}
+.sub {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 22px;
+    background-color: rgb(159, 64, 80);
+    color: lightpink;
+}
